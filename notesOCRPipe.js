@@ -18,7 +18,7 @@ function convertFile() {
   method: 'POST',
   headers: {
     'Content-Type': 'application/json; charset=utf-8',
-    'x-goog-api-key': 'AIzaSyBH0sKvBUc0pRTPWAx4Pn7MZh_Ma-Av4xA',
+    'x-goog-api-key': '',
   },
   body: {
       "requests": [
