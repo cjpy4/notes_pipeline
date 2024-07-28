@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "personal-workflows-376601",
-  "private_key_id": "9a5a41c5f572a13aba7cfa070e49a69fb81381a5",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDNjJJZGA+J0rbq\nEDGvIUDusrNtQlAguxPZ3GTB7mOV3m5N0I5B2fb61TXG8JSeiX7exVw6WQxe/OMm\nM0LfDojr68ikYPJhmIdtyNCgoDY2QXEvHGG19372YbpQ3xmwbChvQU8V/IFpsn0t\nzlEtIZVgZA5Jg9ro5laEZJxazkZbizE5L9fyH4bJfBLR0Ful1orM2+vyWxuEUR9/\np8XA+qmZYsrWHw3nzRXdBrGtf3Yl5w/oBMae+u85iy4lIOICmZxzGTU31wWt6wio\nxvsToeHi499VjYUzy16Q/JN9jlJgGjg7CoT5CGnqOrHUKHkYEIZ8PU6K4fxVTIpm\n6yC2EFiBAgMBAAECggEAFFFbW/3FXdQoaxpe47B8fyItGzuaH3CILBmD4I/3lwzA\n4X85uJrateOiaH/gz1gu/foLPX2oFX5kCgm4h/aJvhKoWoGpija62E7COvmeZWsl\nmXvYN4j3eCCj4cxgksnpW0n2dWloXDIELqVwuVUGM3Xgdak+pJWA756t8X0agxmh\nkz8k06/pcTMebjUkrkCwe1z/1ovHnz5dTenNu29gAv8YIPTGmeo7i5wKwlRTR5Aj\nq/wM/V73o0tsdxZVsdJgpzSXLdKorBM+7d7UtQ0MN2GZQX/1I5OMNL8vfsl/LlWW\njBhPZS8VGFc6wGJ1VGHfFiVMz0n6MARbfpyemusqewKBgQD4k9mmYLHmAyOBQa50\nXZxDZE7YmO9lOJrw0WuSni5b4W2JDwSo4TpiHgq4bZsZOyPIlpHglaLhENtTHwUr\ndrJbdlDB5QnL8E01oVTRAlIgjO9N/xI+wPhMORSCJKDgNj2q8y4WwQrtLtiiDxqc\nfOYrB2xFlv2aAQDqRUWiCgyn2wKBgQDTr87ix8F2uzwwkM0jaJgIkK+hPnH6F2wa\nup2iCHiWWnVylo0o62Y49nKsozt+zM6+yYzg6gUabT9w4/0WaAzK8tSpfm2CgN58\nsKaV5H4GHoXvsMNmxtPzG9gDlJmC8QhCXhhuRTOswMa4tyvR0O/udS9BRhr6k1wq\nzOt55Imt0wKBgE8Jg7zZJfeCq/lfTv8E/LiY3lEUX5oJo4pKrC+USB1C0jcwJUUl\nSBEGiFYX06b0HO6coYmNSprRZ0tIo7YsKY3XUtoz3yePIp2YzIUgfciHx1c/cSeu\n58QkqhavWs+vr2/5nn/xpW3A5XSx5L45IF4yIAUIe15KT2Yt3HQnSdrdAoGATQ5C\nEOsF0WJ2lncfNTRtozCHvfotIwxDnbcwijrrKk/jUMLcv3hwzWtocs84aP/Egk57\nqaOGGAiMf1t+VRmrDnU2VDxhQJAIbPsgqI90EGYr+wQtHMxjeqs4BpWhC7kReJcn\n7XvjQ48oxzRmDwovTG37tZb/WxcpBatyS/yU4WECgYByr6uK46ontyPpxwHYEORS\nHoQVlXhvI3MfYBW5s1yJEnGnGwDasvb8/aWJf6RiFBzZ6d37dIYGVIWNaUh8LP/I\nD+H1FZOT63705YhGRMs1xepZvMpuZSaPE7P4l9s3kFejW8FGM9xNbdETGDZg/xRH\no2pFXN3KYzlcVyFO5O0Fyg==\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "",
+  "private_key": "",
   "client_email": "cloud-vision-ocr-svc-accnt@personal-workflows-376601.iam.gserviceaccount.com",
-  "client_id": "108337248399562379488",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
